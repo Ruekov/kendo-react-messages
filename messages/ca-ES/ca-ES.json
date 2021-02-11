@@ -1,0 +1,76 @@
+{
+    "datepicker": {
+        "toggleCalendar": "Alternar calendari"
+    },
+    "calendar": {
+        "today": "Avui"
+    },
+    "dateinput": {
+        "increment": "Incrementar valor",
+        "decrement": "Disminuir valor"
+    },
+    "datetimepicker": {
+        "date": "Data",
+        "time": "Hora",
+        "cancel": "Cancel·lar",
+        "set": "Establir"
+    },
+    "numerictextbox": {
+        "increment": "Incrementar valor",
+        "decrement": "Disminuir valor"
+    },
+	"dateinput":{
+        "increment": "Incrementar valor",
+        "decrement": "Decrementar valor"
+    },
+    "timepicker": {
+        "now": "ARA",
+        "set": "Establir",
+        "cancel": "Cancel·lar"
+    },
+	"dropdowns":{
+        "nodata": "No s'han trobat dades",
+        "clear": "Netejar"
+    },
+    "grid": {
+        "groupPanelEmpty": "Arrosegui el títol de la columna i deixi'l anar aqui per agrupar per criteri seleccionat",
+        "noRecords": "No hi ha dades disponibles.",
+        "pagerFirstPage": "Anar a la primera pàgina",
+        "pagerPreviousPage": "Anar a la pàgina anterior",
+        "pagerNextPage": "Anar a la seguent pàgina",
+        "pagerLastPage": "Anar a darrera página",
+        "pagerPage": "Pàgina",
+        "pagerOf": "de",
+        "pagerItems": "ítems",
+        "pagerInfo": "{0} - {1} de {2} ítems",
+        "pagerItemsPerPage": "ítems per pàgina",
+        "filterEqOperator": "És igual a",
+        "filterNotEqOperator": "No és igual a",
+        "filterIsNullOperator": "Es nulo,
+        "filterIsNotNullOperator": "No és nul",
+        "filterIsEmptyOperator": "Està buit",
+        "filterIsNotEmptyOperator": "No està buit",
+        "filterStartsWithOperator": "Comença amb",
+        "filterContainsOperator": "Conté,
+        "filterNotContainsOperator": "No conté",
+        "filterEndsWithOperator": "Acaba amb",
+        "filterGteOperator": "És mayor o igual que",
+        "filterGtOperator": "És mayor que",
+        "filterLteOperator": "És menor o igual que",
+        "filterLtOperator": "És menor o igual que",
+        "filterIsTrue": "Sí",
+        "filterIsFalse": "No",
+        "filterBooleanAll": "(Totes)",
+        "filterAfterOrEqualOperator": "Es posterior o igual a",
+        "filterAfterOperator": "És posterior",
+        "filterBeforeOperator": "És anterior",
+        "filterBeforeOrEqualOperator": "És anterior o igual a",
+        "filterSubmitButton": "Filtrar",
+        "filterClearButton": "Netejar",
+        "filterAndLogic": "I",
+        "filterOrLogic": "O",
+        "filterTitle": "Filtres",
+        "sortAscending": "Ordre ascendent",
+        "sortDescending": "Ordre descendent"
+    }
+}
